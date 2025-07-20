@@ -44,7 +44,18 @@
         "enum": ["Low", "Medium", "High"]
       }
     },
-    "required": ["company", "ticker", "sector", "exchange", "catalyst", "trade_type", "entry", "stop_loss", "target", "risk_level"]
+    "required": [
+      "company",
+      "ticker",
+      "sector",
+      "exchange",
+      "catalyst",
+      "trade_type",
+      "entry",
+      "stop_loss",
+      "target",
+      "risk_level"
+    ]
   }
 }
-# Agent-Test
+
